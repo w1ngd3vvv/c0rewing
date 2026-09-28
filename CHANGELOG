@@ -1,0 +1,21 @@
+CoreWing 1.0
+- Fluxbox window manager
+- cw — custom package manager
+- GTK compilation framework started
+- Default credentials: root / root (change immediately)
+- x86_64, Intel HD Graphics support (kernel can be recompiled for other hardware)
+- Deployment: copy rootfs to drive, install GRUB
+- Note: some test files remain, can be deleted
+
+Corewing 1.1(not updated yet.)
+
+CoreWing GNU/Linux 1.1 — coming soon
+
+Changes since 1.0:
+- Cleared all temporary/test files
+- Nix package manager integrated (nix-pkgs)
+- XFCE4 desktop environment fully working
+
+Default credentials: root / root (change on first boot)
+
+Stay tuned.
