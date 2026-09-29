@@ -14,7 +14,7 @@ CoreWing GNU/Linux 1.1 — coming soon
 Changes since 1.0:
 - Cleared all temporary/test files
 - Nix package manager integrated (nix-pkgs)
-- XFCE4 desktop environment fully working
+- Fluxbox window manager
 
 Default credentials: root / root (change on first boot)
 
