@@ -1,8 +1,8 @@
 # c0rewing
 An independent, lightweight x86_64 Linux system built from scratch (LFS-based).
 
-Download Link
-* You can download the rootfs archive here: https://drive.google.com/file/d/1DncYnsn5Cqh9tUbGIXbfGRQxer-jBmMY/view?usp=drive_link
+Download
+* You can download the rootfs archive in Releases page.
 
 System Core & Utilities
 * Base System: Essential GNU/Linux base utils.
