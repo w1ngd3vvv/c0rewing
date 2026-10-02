@@ -7,15 +7,19 @@ CoreWing 1.0
 - Deployment: copy rootfs to drive, install GRUB
 - Note: some test files remain, can be deleted
 
-Corewing 1.1(not updated yet.)
 
-CoreWing GNU/Linux 1.1 — coming soon
+Corewing 1.1
+
+CoreWing GNU/Linux 1.1
 
 Changes since 1.0:
 - Cleared all temporary/test files
 - Nix package manager integrated (nix-pkgs)
 - Temporary remove Fluxbox
+- Logo changed
 
 Default credentials: root / root (change on first boot)
+
+1.1 released today!!
 
 Stay tuned.
